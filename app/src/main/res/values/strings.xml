@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">testapplicationfirebase</string>
+    <string name="sname">sName</string>
+    <string name="saddress">sAddress</string>
+    <string name="sphone">sPhone</string>
+    <string name="savebtn">saveBtn</string>
+    <string name="showbtn">showBtn</string>
+    <string name="updatebtn">updateBtn</string>
+    <string name="deletebtn">deleteBtn</string>
+</resources>
